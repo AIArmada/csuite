@@ -1,0 +1,35 @@
+{
+    "name": "aiarmada/commerce",
+    "description": "A powerful collection of commerce components for Laravel - build and ship e-commerce features fast.",
+    "type": "metapackage",
+    "license": "MIT",
+    "homepage": "https://github.com/aiarmada/commerce",
+    "support": {
+        "issues": "https://github.com/aiarmada/commerce/issues",
+        "source": "https://github.com/aiarmada/commerce"
+    },
+    "require": {
+        "php": "^8.4",
+        "aiarmada/cart": "self.version",
+        "aiarmada/cashier": "self.version",
+        "aiarmada/cashier-chip": "self.version",
+        "aiarmada/chip": "self.version",
+        "aiarmada/commerce-support": "self.version",
+        "aiarmada/docs": "self.version",
+        "aiarmada/filament-cart": "self.version",
+        "aiarmada/filament-chip": "self.version",
+        "aiarmada/filament-docs": "self.version",
+        "aiarmada/filament-jnt": "self.version",
+        "aiarmada/filament-authz": "self.version",
+        "aiarmada/filament-vouchers": "self.version",
+        "aiarmada/jnt": "self.version",
+        "aiarmada/filament-inventory": "self.version",
+        "aiarmada/inventory": "self.version",
+        "aiarmada/vouchers": "self.version"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
