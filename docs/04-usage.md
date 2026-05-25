@@ -1,4 +1,12 @@
-# Packages
+---
+title: Usage
+---
+
+# Usage
+
+Use this page to understand what the metapackage installs and which package combinations fit different product setups.
+
+## Included packages
 
 Overview of all packages in the AIArmada Commerce suite.
 

@@ -1,4 +1,10 @@
+---
+title: Installation
+---
+
 # Installation
+
+This guide installs the Commerce metapackage and then points you at the included package surfaces you still need to configure.
 
 Complete installation guide for AIArmada Commerce.
 
@@ -7,7 +13,7 @@ Complete installation guide for AIArmada Commerce.
 | Requirement | Version |
 |-------------|---------|
 | PHP | 8.4+ |
-| Laravel | 12.0+ |
+| Laravel | 13.0+ |
 | Filament | 5.0+ (for admin panels) |
 | PostgreSQL or MySQL | 8.0+ |
 
